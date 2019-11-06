@@ -7,3 +7,5 @@ Technologies used:
  3. ExpressJS
  4. MongoDB
  5. Bootstrap
+ 6. Jquery
+ 7. Docker
