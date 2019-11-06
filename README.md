@@ -9,3 +9,4 @@ Technologies used:
  5. Bootstrap
  6. Jquery
  7. Docker
+ 8. AWS S3
